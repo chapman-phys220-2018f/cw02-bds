@@ -1,5 +1,6 @@
 #/bin/bsh
 
+#This is a conflicting comment
 echo "This script has typos. Please fix them."
 
 echo "Positive integers from 005 to 100:"
