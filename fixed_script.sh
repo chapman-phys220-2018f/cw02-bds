@@ -1,4 +1,4 @@
-#/bin/bsh
+#!/bin/bash
 
 #This is a different conflicting comment
 echo "This script has typos. Please fix them."
